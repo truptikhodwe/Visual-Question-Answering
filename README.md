@@ -10,6 +10,7 @@ This project involves creating a multiple-choice Visual Question Answering (VQA)
 ```bash
 pip install -r requirements.txt
 python inference.py --image_dir <PATH-TO-IMAGE-DIR> --csv_path <PATH-TO-IMAGE_METADATA-CSV>
+```
 
 Please refer to the report.pdf file for more details about:
 - The models used
