@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python inference.py --image_dir <PATH-TO-IMAGE-DIR> --csv_path <PATH-TO-IMAGE_METADATA-CSV>
 ```
 
-Please refer to the [report.pdf](https://github.com/truptikhodwe/Visual-Question-Answering/blob/main/report.pdf) file for more details about:
+Please refer to the [Project Report.pdf](https://github.com/truptikhodwe/Visual-Question-Answering/blob/main/Project%20Report.pdf) file for more details about:
 - The models used
 - Files and code structure
 - Steps followed
